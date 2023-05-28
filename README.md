@@ -12,4 +12,4 @@ gcc client.c -o client
 Then type your expression to be calculated.
 For example,
 client sends the request expression 3*5
-server answers 15.
+and the server answers back 15.
